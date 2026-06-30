@@ -165,22 +165,7 @@
 </footer>
 
 <script defer src="theme.js"></script>
-<script defer>
-  (function () {
-    var iframe = document.getElementById('game-iframe');
-    function resize() {
-      try {
-        var doc = iframe.contentDocument;
-        var h = Math.max(doc.body.scrollHeight, doc.body.offsetHeight, doc.documentElement.scrollHeight, doc.documentElement.offsetHeight);
-        if (h > 0) iframe.style.height = h + 'px';
-      } catch (e) {}
-    }
-    iframe.addEventListener('load', function () {
-      resize();
-      try { new MutationObserver(resize).observe(iframe.contentDocument.body, { childList: true, subtree: true, attributes: true }); } catch (e) {}
-    });
-  })();
-</script>
+
 
 </body>
 </html>
