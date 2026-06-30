@@ -2,27 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://spacebarclicker.site/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <lastmod>2026-06-30</lastmod>
   </url>
   <url>
     <loc>https://spacebarclicker.site/how-to-play/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <lastmod>2026-06-30</lastmod>
   </url>
   <url>
     <loc>https://spacebarclicker.site/tips/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <lastmod>2026-06-30</lastmod>
   </url>
   <url>
     <loc>https://spacebarclicker.site/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <lastmod>2026-06-30</lastmod>
   </url>
   <url>
     <loc>https://spacebarclicker.site/search-help/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <lastmod>2026-06-30</lastmod>
   </url>
 </urlset>
